@@ -1,0 +1,16 @@
+1. The parser shouldn't remove any white spaces from the data.
+Double quotes should be preserved as single quotes when parsed
+The CSV should be able to seperate the text only on a delimiter and not on any other keys. 
+If the CSV detect bad data, it should immediately stop. 
+
+2. This could expand the power of my testing because I would be able to have many edge 
+cases that I didn't even think of. It would also make sure that my parser works on many
+different data sets. With multiple random csv inputs, we are able to find bugs quicker and 
+we are able to be more confident in our parser if all of our tests pass. 
+
+3. In prior programming assignments, we were usually given a step by step instruction on how 
+to do different parts of the assignment. However for this assignment we were given more freedom to 
+think of our own ideas for the parser. Something that surprised me was how complicated CSV parsers really
+were. I thought that they would be pretty simple but there is a lot of thought that has to go with how they 
+work. Some bugs I encourtered were typescript type errors because I wasn't sure exactly how syntax worked. I 
+was able to ask the LLM and consult with the typescript docs to find out the bug and fix it. 
