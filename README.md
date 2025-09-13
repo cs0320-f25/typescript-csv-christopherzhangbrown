@@ -63,6 +63,6 @@ The LLM had some overlap with me regarding error detection and working with othe
 
 #### Team members and contributions (include cs logins):
 
-#### Collaborators (cslogins of anyone you worked with on this project and/or generative AI): Copilot
+#### Collaborators (cslogins of anyone you worked with on this project and/or generative AI): Copilot, used Copilot to create CSV tests, also helped with ideas regarding how to implement the csv parser but I wrote it myself. It also helped me brainstorm what to write and how to write things better but I also wrote all of these things in my own words. 
 #### Total estimated time it took to complete project: 4 hours
 #### Link to GitHub Repo:  https://github.com/cs0320-f25/typescript-csv-christopherzhangbrown
