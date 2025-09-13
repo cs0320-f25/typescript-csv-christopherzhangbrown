@@ -58,11 +58,11 @@ The LLM had some overlap with me regarding error detection and working with othe
 
 - #### 3. Overall experience, Bugs encountered and resolved
 #### Errors/Bugs:
-#### Tests:
-#### How To…
+#### Tests: I focused on tests with different edge cases such as parsing quotations and commas and making sure it didn't change the data. 
+#### How To… To run the tests just use npm test, to run the run-parser use npx ts-node src/run-parser.ts
 
 #### Team members and contributions (include cs logins):
 
-#### Collaborators (cslogins of anyone you worked with on this project and/or generative AI):
-#### Total estimated time it took to complete project:
-#### Link to GitHub Repo:  
+#### Collaborators (cslogins of anyone you worked with on this project and/or generative AI): Copilot
+#### Total estimated time it took to complete project: 4 hours
+#### Link to GitHub Repo:  https://github.com/cs0320-f25/typescript-csv-christopherzhangbrown
